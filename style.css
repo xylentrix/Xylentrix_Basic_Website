@@ -1,0 +1,7 @@
+body{margin:0;background:#0a0a0a;color:#fff;font-family:Arial,sans-serif}
+.container{max-width:1000px;margin:40px auto;padding:30px;text-align:center}
+.banner{max-width:100%;border-radius:12px}
+.tag{color:#53d769;font-weight:bold}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:15px;margin:25px 0}
+.cards div{background:#151515;border:1px solid #3cbf5a;padding:20px;border-radius:10px}
+a{color:#53d769;text-decoration:none;font-weight:bold}

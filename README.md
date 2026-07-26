@@ -1,0 +1,1 @@
+Upload contents to GitHub or Azure Static Web Apps.
